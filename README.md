@@ -1,8 +1,37 @@
-# Python-s-Fangs
-“Learning Python, one bite at a time.”
+# 🐍 Python’s Fangs  
+> “Learning Python, one bite at a time.”  
 
-# Basic Calculator
-"A basic first calculator prototype which I will improve with each new technique learnt" 
+Welcome to my learning journey in Python!  
+This repository holds my early Python projects as I explore new concepts, improve structure, and gradually move toward building my very own home made AI. 
 
-# Simple Store Program
-"Basic Program made by using lists and loops"
+---
+
+## ⚙️ Projects  
+
+### 🧮 Basic Calculator  
+A simple calculator prototype :my first Python project!  
+-> Built using **if-else logic** and **basic arithmetic operators**.  
+-> I plan to improve it with **functions** and maybe **voice input** later as I gradually step up.  
+> _“Numbers are the first steps towards new discoveries.”_ 😄
+
+---
+
+### 🏪 Simple Store Program  
+A beginner friendly store simulator built using **lists** and **loops**.  
+-> Lets you select items, enter quantities, and view the total bill.  
+-> Next step: I’ll add **GST**, **discount logic**, and a **receipt printout** feature.  
+
+---
+
+## 🚀 What’s Next  
+I’m currently learning:
+-> Data structures (lists, dictionaries, stacks, queues)
+-> File handling in Python
+-> Object-oriented programming  
+-> And I’ll soon connect my Python logic with **AI concepts** I’m learning side by side.
+
+---
+
+## 💬 About Me  
+I’m **Arnav**, a Java & Python learner, GDevelop hobbyist, and future AI developer.  
+My goal is to develop my own AI assitant using python and java. 
