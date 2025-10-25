@@ -14,6 +14,14 @@ A simple calculator prototype :my first Python project!
 -> I plan to improve it with **functions** and maybe **voice input** later as I gradually step up.  
 > _“Numbers are the first steps towards new discoveries.”_ 😄
 
+#### 🧮 Updated Basic Calculator V2
+Next version of my very basic calculator prototype: A **continuous calculator**! 
+->Built using help of **loops** and **conditionals** and **basic arithmetic operators**. 
+->I plan to improve upon this even more in the future. 
+-> Includes input validation to prevent invalid choices and division by zero.  
+-> Prints the current result after each operation for better usability.
+>*I have loved the journey so far*😁
+
 ---
 
 ### 🏪 Simple Store Program  
