@@ -31,6 +31,34 @@ A beginner friendly store simulator built using **lists** and **loops**.
 
 ---
 
+### 🎲🎮 OddEve_Dice_Cricket Game Program
+Odd-Eve is a cult classic among school students. Its a game based on luck and bit of intuition. I decided to convert this hand game to a program using:
+->random package
+->Highly nested if-else loop
+->Extremely basic logic based decision making
+What I wish to improve:
+->Using function to make it less cluttered and modular. 
+->Making it risk free of error. 
+
+#### 🎮 How To Play
+Step 1: Choose **Odd** or **Eve**. 
+Step 2: Choose from any number between 1 to 6 as your move. Your goal is to make a move such that the sum of your no. Is odd or even depending on your choice. 
+Step 3: If you win you choose batting or balling otherwise the computer chooses. 
+
+🥎 **Game Rules**
+**In Batting :** Choose a number between 1 and 6. The number you pick will be added to your score.
+Your goal is to score as many runs as possible.
+You will be out if your number matches the opponent’s bowling number.
+**In Bowling :** Try to guess the number your opponent will choose.
+If your guess matches their number, they’re out — and you stop them from scoring.
+
+🧩 **Creator Note :**
+This is my first attempt at turning a traditional hand game into a Python program.
+I plan to evolve it with better logic and structure as I keep learning.
+I hope you have fun and please gives critics. 
+
+---
+
 ## 🚀 What’s Next  
 I’m currently learning:
 -> Data structures (lists, dictionaries, stacks, queues)
